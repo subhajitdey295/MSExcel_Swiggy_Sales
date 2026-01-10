@@ -1,4 +1,8 @@
-🛵 Swiggy Sales Performance Analytics Dashboard Using MS Excel
+[Swiggy Sales Performance Analytics.pdf](https://github.com/user-attachments/files/24545421/Swiggy.Sales.Performance.Analytics.pdf)🛵 Swiggy Sales Performance Analytics Dashboard Using MS Excel
+
+➡️ View the Full Business Report (PDF): [Swiggy Sales Performance Analytics.pdf](https://github.com/user-attachments/files/24545423/Swiggy.Sales.Performance.Analytics.pdf)
+
+
 <img width="1188" height="617" alt="Swiggy Sales Dashboard" src="https://github.com/user-attachments/assets/b4180d96-4b4c-4417-b598-660986427a93" />
 
 ✔ Project Overview: This repository features a robust data analysis project focused on deriving actionable business intelligence from real-world food delivery sales data. The core deliverable is a dynamic, interactive dashboard that successfully transforms over ₹53.01M in sales transactions into a clear, single source of truth for executive decision-making.
