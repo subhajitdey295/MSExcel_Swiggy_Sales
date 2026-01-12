@@ -1,4 +1,4 @@
-[Swiggy Sales Performance Analytics.pdf](https://github.com/user-attachments/files/24545421/Swiggy.Sales.Performance.Analytics.pdf)🛵 Swiggy Sales Performance Analytics Dashboard Using MS Excel
+🛵 Swiggy Sales Performance Analytics Dashboard Using MS Excel
 
 ➡️ View the Full Business Report (PDF): [Swiggy Sales Performance Analytics.pdf](https://github.com/user-attachments/files/24545423/Swiggy.Sales.Performance.Analytics.pdf)
 
